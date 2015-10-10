@@ -1,43 +1,26 @@
 # Hypothetical OS
 
-##CS350 Operating Systems: Term Project
+##Description
+The Hypothetical Operating System Term Project simulates how an operation system would sort tasks in memory and allocate processor time.Our project parameters were to randomly create twenty jobs and run them over thirty time units on a simulated quad-core processor.There were three test cases involving different sorting and memory allocation methods.
+* Case One:        First-Come First-Served, First-Fit, Round Robin
+* Case Two:        First-Come First-Served, Best-Fit, Round Robin
+* Case Three:      Shortest-Job First-Served, Best-Fit, Round Robin
 
-14 April 2015
+##Instructions
+**This program requires a Java JRE/JDK.**
 
-Dr. KP
+![alt text](http://i.imgur.com/PJC96pF.jpg "Compile In Terminal")
 
-Robert Rushton
+Use the terminal to compile the source files.
 
-Kane Stapler
+![alt text](http://i.imgur.com/WRVl6ZW.jpg "Run The Program")
 
-###Table of Contents:
-About
+Use "java MainOS" in the terminal to run the program.
 
-Compile Instructions
+![alt text](http://i.imgur.com/RBblWzK.jpg "Program Output")
 
-Running Instructions
+The program will display the the state of the jobs for every tick of the cores. The output files will be saved to the directory the program was ran in.
 
-Source Files
+##Acknowledgements
 
-Work Credits
-
-###ABOUT
-
-The Hypothetical Operating System Term Project simulates how an operation system would sort tasks in memory and allocate processor time.
-Our project parameters were to randomly create twenty jobs and run them over thirty time units on a simulated quad-core processor.
-There were three test cases involving different sorting and memory allocation methods.
-
-Case One:        First-Come First-Served, First-Fit, Round Robin
-
-Case Two:        First-Come First-Served, Best-Fit, Round Robin
-
-Case Three:      Shortest-Job First-Served, Best-Fit, Round Robin
-
-COMPILE INSTRUCTIONS
-
-Unzip the downloaded file and navigate to the src directory in the terminal. 
-Type "javac MainOS.java". Once all files are compiled, type "java MainOS" into the terminal
-to generate results.
-
-        
-The output files will be saved to the working directory that the program was run.
+This project was co-written with Kane Stapler.
