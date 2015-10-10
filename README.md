@@ -19,7 +19,7 @@ Use "java MainOS" in the terminal to run the program.
 
 ![alt text](http://i.imgur.com/RBblWzK.jpg "Program Output")
 
-The program will display the the state of the jobs for every tick of the cores. The output files will be saved to the directory the program was ran in.
+The program will display the the state of the jobs for every tick of the cores. The output files will be saved to the directory the program was executed in.
 
 ##Acknowledgements
 
