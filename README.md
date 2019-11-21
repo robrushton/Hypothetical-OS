@@ -1,7 +1,7 @@
 # Hypothetical OS
 
 ## Description
-The Hypothetical Operating System Term Project simulates how an operation system would sort tasks in memory and allocate processor time.Our project parameters were to randomly create twenty jobs and run them over thirty time units on a simulated quad-core processor.There were three test cases involving different sorting and memory allocation methods.
+The Hypothetical Operating System Term Project simulates how an operation system would sort tasks in memory and allocate processor time. Our project parameters were to randomly create twenty jobs and run them over thirty time units on a simulated quad-core processor. There were three test cases involving different sorting and memory allocation methods.
 * Case One:        First-Come First-Served, First-Fit, Round Robin
 * Case Two:        First-Come First-Served, Best-Fit, Round Robin
 * Case Three:      Shortest-Job First-Served, Best-Fit, Round Robin
