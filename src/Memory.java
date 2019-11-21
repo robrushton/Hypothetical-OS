@@ -1,7 +1,7 @@
 public class Memory {
     
     public block[] memoryArray = new block[10];
-    private final int[] memSize = {32,48, 24, 16, 64, 48, 32, 64, 48, 32}; //the given memory sizes
+    private final int[] memSize = {32, 48, 24, 16, 64, 48, 32, 64, 48, 32}; //the given memory sizes
     
     public Memory() {
         for (int i = 0; i < memoryArray.length; i++) {
